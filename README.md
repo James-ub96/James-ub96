@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm James :smiley:
+
+I'm a Physics grad with a passion for data science!
+
 
 <!--
 **James-ub96/James-ub96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
